@@ -1,0 +1,6 @@
+
+
+create database cloud1
+use cloud1
+create table file_m(uname varchar(200),f_name varchar(200))
+create table login1(mailid varchar(200),uname varchar(200),m_num varchar(200),pwd varchar(200))
